@@ -108,8 +108,8 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Merge Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
+      <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/solutions/4413344/beats-100-best-c-solution-using-stl/" target="_blank">Solution</a></td>
     </tr>
     <tr>
       <td align="center">Remove Element</td>
