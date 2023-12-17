@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-04%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-03%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -112,18 +112,18 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/solutions/4413344/beats-100-best-c-solution-using-stl/" target="_blank">Solution</a></td>
     </tr>
     <tr>
-      <td align="center">Remove Element</td>
+      <td align="center"> <a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
+      <td align="center"><a href="https://leetcode.com/problems/remove-element/solutions/4415966/best-100-c-solution/" target="_blank">Solution</a> </td>
     </tr>
     <tr>
-      <td align="center">Remove Duplicates from Sorted Array</td>
+      <td align="center"></td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/" target="_blank">Remove Duplicates from Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
+      <td align="center"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/4415987/c-solution-using-stl/" target="_blank">Solution</a></td>
     </tr>
     <tr>
       <td align="center">Remove Duplicates from Sorted Array II</td>
