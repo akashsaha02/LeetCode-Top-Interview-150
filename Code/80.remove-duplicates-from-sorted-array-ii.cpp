@@ -5,20 +5,21 @@
  */
 
 // @lc code=start
-class Solution {
+class Solution
+{
 public:
-    int removeDuplicates(vector<int>& nums) {
-        int k=0;
-
-        for(int i=1;i<nums.size();i++){
-            if( (nums[k]!=nums[i])<=2){
-                k++;
-                nums[k]=nums[i];
+    int removeDuplicates(vector<int> &nums)
+    {
+        int i = 0;
+        for (auto n : nums)
+        {
+            if ((i < 2) || nums[i - 2] != n)
+            {
+                nums[i] = n;
+                i++;
             }
         }
-        return k+1;
-
+        return i;
     }
 };
 // @lc code=end
-
