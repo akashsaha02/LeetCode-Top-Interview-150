@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "e:/vacation-codes/VACATION3/leetcode/LeetCode-Top-Interview-150/Code",
+      "program": "e:/vacation-codes/VACATION3/leetcode/LeetCode-Top-Interview-150/Code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
