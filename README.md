@@ -164,7 +164,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/jump-game/" target="_blank">Jump Game</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
